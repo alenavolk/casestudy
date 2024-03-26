@@ -1,0 +1,5 @@
+# Python compiled sources
+*.pyc
+
+# IDE files
+/.idea/
