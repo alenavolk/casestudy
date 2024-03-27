@@ -1,0 +1,914 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "language": 1,
+      "country": 1,
+      "year": 1958,
+      "pages": 209
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "Fairy Tales",
+      "author": "Hans Christian Andersen",
+      "country": 2,
+      "language": 2,
+      "year": 1836,
+      "pages": 784
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "country": 3,
+      "language": 3,
+      "year": 1315,
+      "pages": 928
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "title": "The Epic Of Gilgamesh",
+      "author": null,
+      "country": 4,
+      "language": 4,
+      "year": -1700,
+      "pages": 160
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "title": "The Book Of Job",
+      "author": null,
+      "country": 5,
+      "language": 5,
+      "year": -600,
+      "pages": 176
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "country": 6,
+      "language": 1,
+      "year": 1813,
+      "pages": 226
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "title": "The Decameron",
+      "author": "Giovanni Boccaccio",
+      "country": 3,
+      "language": 3,
+      "year": 1351,
+      "pages": 1024
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "country": 7,
+      "language": 7,
+      "year": 1965,
+      "pages": 224
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "title": "Don Quijote De La Mancha",
+      "author": "Miguel de Cervantes",
+      "country": 8,
+      "language": 7,
+      "year": 1610,
+      "pages": 1056
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "title": "The Canterbury Tales",
+      "author": "Geoffrey Chaucer",
+      "country": 9,
+      "language": 1,
+      "year": 1450,
+      "pages": 544
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+      "title": "Stories",
+      "author": "Anton Chekhov",
+      "country": 10,
+      "language": 10,
+      "year": 1886,
+      "pages": 194
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 12,
+    "fields": {
+      "title": "Nostromo",
+      "author": "Joseph Conrad",
+      "country": 6,
+      "language": 1,
+      "year": 1904,
+      "pages": 320
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 13,
+    "fields": {
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "country": 6,
+      "language": 1,
+      "year": 1861,
+      "pages": 194
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 14,
+    "fields": {
+      "title": "Jacques the Fatalist",
+      "author": "Denis Diderot",
+      "country": 11,
+      "language": 8,
+      "year": 1796,
+      "pages": 596
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 15,
+    "fields": {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "country": 10,
+      "language": 10,
+      "year": 1866,
+      "pages": 551
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 16,
+    "fields": {
+      "title": "The Idiot",
+      "author": "Fyodor Dostoevsky",
+      "country": 10,
+      "language": 10,
+      "year": 1869,
+      "pages": 656
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 17,
+    "fields": {
+      "title": "The Possessed",
+      "author": "Fyodor Dostoevsky",
+      "country": 10,
+      "language": 10,
+      "year": 1872,
+      "pages": 768
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 18,
+    "fields": {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "country": 10,
+      "language": 10,
+      "year": 1880,
+      "pages": 824
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 19,
+    "fields": {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "country": 6,
+      "language": 1,
+      "year": 1871,
+      "pages": 800
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 20,
+    "fields": {
+      "title": "Invisible Man",
+      "author": "Ralph Ellison",
+      "country": 12,
+      "language": 1,
+      "year": 1952,
+      "pages": 581
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 21,
+    "fields": {
+      "title": "Medea",
+      "author": "Euripides",
+      "country": 13,
+      "language": 11,
+      "year": -431,
+      "pages": 104
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 22,
+    "fields": {
+      "title": "Absalom, Absalom!",
+      "author": "William Faulkner",
+      "country": 12,
+      "language": 1,
+      "year": 1936,
+      "pages": 313
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 23,
+    "fields": {
+      "title": "The Sound and the Fury",
+      "author": "William Faulkner",
+      "country": 12,
+      "language": 1,
+      "year": 1929,
+      "pages": 326
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 24,
+    "fields": {
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "country": 11,
+      "language": 8,
+      "year": 1857,
+      "pages": 528
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 25,
+    "fields": {
+      "title": "Sentimental Education",
+      "author": "Gustave Flaubert",
+      "country": 11,
+      "language": 8,
+      "year": 1869,
+      "pages": 606
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 26,
+    "fields": {
+      "title": "Faust",
+      "author": "Johann Wolfgang von Goethe",
+      "country": 14,
+      "language": 9,
+      "year": 1832,
+      "pages": 158
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 27,
+    "fields": {
+      "title": "Dead Souls",
+      "author": "Nikolai Gogol",
+      "country": 10,
+      "language": 10,
+      "year": 1842,
+      "pages": 432
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 28,
+    "fields": {
+      "title": "Hunger",
+      "author": "Knut Hamsun",
+      "country": 15,
+      "language": 12,
+      "year": 1890,
+      "pages": 176
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 29,
+    "fields": {
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "country": 12,
+      "language": 1,
+      "year": 1952,
+      "pages": 128
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 30,
+    "fields": {
+      "title": "Iliad",
+      "author": "Homer",
+      "country": 13,
+      "language": 11,
+      "year": -735,
+      "pages": 608
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 31,
+    "fields": {
+      "title": "Odyssey",
+      "author": "Homer",
+      "country": 13,
+      "language": 11,
+      "year": -800,
+      "pages": 374
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 32,
+    "fields": {
+      "title": "A Doll's House",
+      "author": "Henrik Ibsen",
+      "country": 15,
+      "language": 12,
+      "year": 1879,
+      "pages": 68
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 33,
+    "fields": {
+      "title": "Stories",
+      "author": "Franz Kafka",
+      "country": 16,
+      "language": 9,
+      "year": 1924,
+      "pages": 488
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 34,
+    "fields": {
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "country": 16,
+      "language": 9,
+      "year": 1925,
+      "pages": 160
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 35,
+    "fields": {
+      "title": "The Castle",
+      "author": "Franz Kafka",
+      "country": 16,
+      "language": 9,
+      "year": 1926,
+      "pages": 352
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 36,
+    "fields": {
+      "title": "The Sound of the Mountain",
+      "author": "Yasunari Kawabata",
+      "country": 17,
+      "language": 13,
+      "year": 1954,
+      "pages": 288
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 37,
+    "fields": {
+      "title": "Zorba the Greek",
+      "author": "Nikos Kazantzakis",
+      "country": 13,
+      "language": 11,
+      "year": 1946,
+      "pages": 368
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 38,
+    "fields": {
+      "title": "Sons and Lovers",
+      "author": "D. H. Lawrence",
+      "country": 6,
+      "language": 1,
+      "year": 1913,
+      "pages": 432
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 39,
+    "fields": {
+      "title": "Poems",
+      "author": "Giacomo Leopardi",
+      "country": 3,
+      "language": 3,
+      "year": 1818,
+      "pages": 184
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 40,
+    "fields": {
+      "title": "The Golden Notebook",
+      "author": "Doris Lessing",
+      "country": 6,
+      "language": 1,
+      "year": 1962,
+      "pages": 688
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 41,
+    "fields": {
+      "title": "Pippi Longstocking",
+      "author": "Astrid Lindgren",
+      "country": 18,
+      "language": 14,
+      "year": 1945,
+      "pages": 160
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 42,
+    "fields": {
+      "title": "Diary of a Madman",
+      "author": "Lu Xun",
+      "country": 19,
+      "language": 15,
+      "year": 1918,
+      "pages": 389
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 43,
+    "fields": {
+      "title": "Children of Gebelawi",
+      "author": "Naguib Mahfouz",
+      "country": 20,
+      "language": 6,
+      "year": 1959,
+      "pages": 355
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 44,
+    "fields": {
+      "title": "Buddenbrooks",
+      "author": "Thomas Mann",
+      "country": 21,
+      "language": 9,
+      "year": 1901,
+      "pages": 736
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 45,
+    "fields": {
+      "title": "The Magic Mountain",
+      "author": "Thomas Mann",
+      "country": 21,
+      "language": 9,
+      "year": 1924,
+      "pages": 720
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 46,
+    "fields": {
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "country": 12,
+      "language": 1,
+      "year": 1851,
+      "pages": 378
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 47,
+    "fields": {
+      "title": "Essays",
+      "author": "Michel de Montaigne",
+      "country": 11,
+      "language": 8,
+      "year": 1595,
+      "pages": 404
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 48,
+    "fields": {
+      "title": "History",
+      "author": "Elsa Morante",
+      "country": 3,
+      "language": 3,
+      "year": 1974,
+      "pages": 600
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 49,
+    "fields": {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "country": 12,
+      "language": 1,
+      "year": 1987,
+      "pages": 321
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 50,
+    "fields": {
+      "title": "The Tale of Genji",
+      "author": "Murasaki Shikibu",
+      "country": 17,
+      "language": 13,
+      "year": 1006,
+      "pages": 1360
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 51,
+    "fields": {
+      "title": "The Man Without Qualities",
+      "author": "Robert Musil",
+      "country": 22,
+      "language": 9,
+      "year": 1931,
+      "pages": 365
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 52,
+    "fields": {
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "country": 6,
+      "language": 1,
+      "year": 1949,
+      "pages": 272
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 53,
+    "fields": {
+      "title": "Metamorphoses",
+      "author": "Ovid",
+      "country": 23,
+      "language": 16,
+      "year": 100,
+      "pages": 576
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 54,
+    "fields": {
+      "title": "The Book of Disquiet",
+      "author": "Fernando Pessoa",
+      "country": 24,
+      "language": 17,
+      "year": 1928,
+      "pages": 272
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 55,
+    "fields": {
+      "title": "Tales",
+      "author": "Edgar Allan Poe",
+      "country": 12,
+      "language": 1,
+      "year": 1950,
+      "pages": 842
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 56,
+    "fields": {
+      "title": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "country": 11,
+      "language": 8,
+      "year": 1920,
+      "pages": 2408
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 57,
+    "fields": {
+      "title": "The Masnavi",
+      "author": "Rumi",
+      "country": 25,
+      "language": 18,
+      "year": 1236,
+      "pages": 438
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 58,
+    "fields": {
+      "title": "Season of Migration to the North",
+      "author": "Tayeb Salih",
+      "country": 26,
+      "language": 6,
+      "year": 1966,
+      "pages": 139
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 59,
+    "fields": {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "country": 9,
+      "language": 1,
+      "year": 1603,
+      "pages": 432
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 60,
+    "fields": {
+      "title": "King Lear",
+      "author": "William Shakespeare",
+      "country": 9,
+      "language": 1,
+      "year": 1608,
+      "pages": 384
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 61,
+    "fields": {
+      "title": "Othello",
+      "author": "William Shakespeare",
+      "country": 9,
+      "language": 1,
+      "year": 1609,
+      "pages": 314
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 62,
+    "fields": {
+      "title": "Oedipus the King",
+      "author": "Sophocles",
+      "country": 13,
+      "language": 11,
+      "year": -430,
+      "pages": 88
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 63,
+    "fields": {
+      "title": "The Red and the Black",
+      "author": "Stendhal",
+      "country": 11,
+      "language": 8,
+      "year": 1830,
+      "pages": 576
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 64,
+    "fields": {
+      "title": "The Life And Opinions of Tristram Shandy",
+      "author": "Laurence Sterne",
+      "country": 9,
+      "language": 1,
+      "year": 1760,
+      "pages": 640
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 65,
+    "fields": {
+      "title": "Confessions of Zeno",
+      "author": "Italo Svevo",
+      "country": 3,
+      "language": 3,
+      "year": 1923,
+      "pages": 412
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 66,
+    "fields": {
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "country": 27,
+      "language": 1,
+      "year": 1726,
+      "pages": 178
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 67,
+    "fields": {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "country": 10,
+      "language": 10,
+      "year": 1867,
+      "pages": 1296
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 68,
+    "fields": {
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "country": 10,
+      "language": 10,
+      "year": 1877,
+      "pages": 864
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 69,
+    "fields": {
+      "title": "The Death of Ivan Ilyich",
+      "author": "Leo Tolstoy",
+      "country": 10,
+      "language": 10,
+      "year": 1886,
+      "pages": 92
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 70,
+    "fields": {
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "country": 12,
+      "language": 1,
+      "year": 1884,
+      "pages": 224
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 71,
+    "fields": {
+      "title": "Ramayana",
+      "author": "Valmiki",
+      "country": 28,
+      "language": 19,
+      "year": -450,
+      "pages": 152
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 72,
+    "fields": {
+      "title": "The Aeneid",
+      "author": "Virgil",
+      "country": 23,
+      "language": 16,
+      "year": -23,
+      "pages": 442
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 73,
+    "fields": {
+      "title": "Mahabharata",
+      "author": "Vyasa",
+      "country": 28,
+      "language": 19,
+      "year": -700,
+      "pages": 276
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 74,
+    "fields": {
+      "title": "Leaves of Grass",
+      "author": "Walt Whitman",
+      "country": 12,
+      "language": 1,
+      "year": 1855,
+      "pages": 152
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 75,
+    "fields": {
+      "title": "Mrs Dalloway",
+      "author": "Virginia Woolf",
+      "country": 6,
+      "language": 1,
+      "year": 1925,
+      "pages": 216
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 76,
+    "fields": {
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "country": 6,
+      "language": 1,
+      "year": 1927,
+      "pages": 209
+    }
+  }
+]

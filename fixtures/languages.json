@@ -1,0 +1,135 @@
+[
+  {
+    "model": "books.language",
+    "pk": 1,
+    "fields": {
+      "name": "English"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 2,
+    "fields": {
+      "name": "Danish"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 3,
+    "fields": {
+      "name": "Italian"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 4,
+    "fields": {
+      "name": "Akkadian"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 5,
+    "fields": {
+      "name": "Hebrew"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 6,
+    "fields": {
+      "name": "Arabic"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 7,
+    "fields": {
+      "name": "Spanish"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 8,
+    "fields": {
+      "name": "French"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 9,
+    "fields": {
+      "name": "German"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 10,
+    "fields": {
+      "name": "Russian"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 11,
+    "fields": {
+      "name": "Greek"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 12,
+    "fields": {
+      "name": "Norwegian"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 13,
+    "fields": {
+      "name": "Japanese"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 14,
+    "fields": {
+      "name": "Swedish"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 15,
+    "fields": {
+      "name": "Chinese"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 16,
+    "fields": {
+      "name": "Classical Latin"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 17,
+    "fields": {
+      "name": "Portuguese"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 18,
+    "fields": {
+      "name": "Persian"
+    }
+  },
+  {
+    "model": "books.language",
+    "pk": 19,
+    "fields": {
+      "name": "Sanskrit"
+    }
+  }
+]

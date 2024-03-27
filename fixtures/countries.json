@@ -1,0 +1,198 @@
+[
+  {
+    "model": "books.country",
+    "pk": 1,
+    "fields": {
+      "name": "Nigeria"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 2,
+    "fields": {
+      "name": "Denmark"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 3,
+    "fields": {
+      "name": "Italy"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 4,
+    "fields": {
+      "name": "Sumer and Akkadian Empire"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 5,
+    "fields": {
+      "name": "Achaemenid Empire"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 6,
+    "fields": {
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 7,
+    "fields": {
+      "name": "Argentina"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 8,
+    "fields": {
+      "name": "Spain"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 9,
+    "fields": {
+      "name": "England"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 10,
+    "fields": {
+      "name": "Russia"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 11,
+    "fields": {
+      "name": "France"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 12,
+    "fields": {
+      "name": "United States"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 13,
+    "fields": {
+      "name": "Greece"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 14,
+    "fields": {
+      "name": "Saxe-Weimar"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 15,
+    "fields": {
+      "name": "Norway"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 16,
+    "fields": {
+      "name": "Czechoslovakia"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 17,
+    "fields": {
+      "name": "Japan"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 18,
+    "fields": {
+      "name": "Sweden"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 19,
+    "fields": {
+      "name": "China"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 20,
+    "fields": {
+      "name": "Egypt"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 21,
+    "fields": {
+      "name": "Germany"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 22,
+    "fields": {
+      "name": "Austria"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 23,
+    "fields": {
+      "name": "Roman Empire"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 24,
+    "fields": {
+      "name": "Portugal"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 25,
+    "fields": {
+      "name": "Sultanate of Rum"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 26,
+    "fields": {
+      "name": "Sudan"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 27,
+    "fields": {
+      "name": "Ireland"
+    }
+  },
+  {
+    "model": "books.country",
+    "pk": 28,
+    "fields": {
+      "name": "India"
+    }
+  }
+]
