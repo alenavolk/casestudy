@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ library_name }}</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+<body>
+  <p>Welcome to {{ library_name }}, click the button bellow to get a random book:</p>
+  <p><button onclick="getRandomBook();">Get a book!</button></p>
+  <span id="num_books" hidden>{{ num_books }}</span><div id="result"></div>
+  <script>
+    function getRandomBook() {
+      const numBooks = parseInt($('#num_books').text());
+      const randomId = Math.floor(Math.random() * numBooks) + 1;
+      $.ajax({
+        url: "/books/" + randomId + "/",
+      }).done(function(response) {
+        const title = response['title'];
+        let author = response['author'];
+        if (author === null) {
+            author = "Unknown Author";
+        }
+        $('#result').text('"' + title + '"' + ' by ' + author);
+      });
+    }
+  </script>
+</body>
+</html>
